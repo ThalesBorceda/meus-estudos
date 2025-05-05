@@ -1,2 +1,8 @@
-# meus-estudos
-Repositório pessoal com anotações, exercícios e projetos realizados durante minha jornada de aprendizado em programação. Sou formado em Direito e estudo desenvolvimento de forma autodidata, com foco em web, lógica e boas práticas.
+
+# Meus Estudos em Programação
+
+Sou formado em Direito e atualmente estou aprendendo programação de forma autodidata e registrando aqui meus avanços, desafios e soluções.
+
+## 🎯 Objetivo
+
+Manter uma documentação clara e organizada do meu progresso como desenvolvedor iniciante, e compartilhar meu processo.
