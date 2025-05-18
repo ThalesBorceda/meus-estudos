@@ -4,4 +4,4 @@
 answer_one = str(input('What did you write yesterday? '))
 answer_two = str(input('To whom did you send it? '))
 
-print(f'Yesterday I wrote a {answer_one}. I send it to {answer_two}')
+print(f'Yesterday I wrote a {answer_one}. I sent it to {answer_two}')
